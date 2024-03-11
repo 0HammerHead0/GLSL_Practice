@@ -1,9 +1,8 @@
-import { useState } from 'react'
-
+import Experience from './components/Experience'
 function App() {
   return (
     <>
-        <h1>Hello</h1>
+        <Experience />
     </>
   )
 }
